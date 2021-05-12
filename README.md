@@ -35,7 +35,7 @@
   Ho: There is no significant difference between the Reading, Writing, and Math scores of students with test preparation course variable difference. 
   Ha: There is significant difference between the Reading, Writing, and Math scores of students with test preparation course variable difference.
 
-## 4. Part II: Machine Learning
+## 4. Results:
 
 *Summary of inferences:*
 
